@@ -22,8 +22,8 @@
   - Make a Book object from the values
   - Add the Book object to the ArrayList
 - Print the list
-- Print all books that are popular and lengthy
-- Print all books that are short
+- Print all books that are popular and lengthy (include a header, see example output)
+- Print all books that are short (include a header, see example output)
 
 ***Example Input:***\
 \
