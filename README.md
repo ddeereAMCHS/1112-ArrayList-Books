@@ -28,7 +28,7 @@
 ***Example Input:***\
 books.txt\
 ***Example Output:***\
-[The Cat in the Hat by Dr. Seuss, The Lightning Thief by Rick Riordan, Fahrenheit 451 by Ray Bradbury, The Scarlet Letter by Nathaniel Hawthorne, Heir to the Empire by Timothy Zahn, If You Give a Mouse a Cookie by Laura Numeroff]\
+[The Cat in the Hat by Dr. Seuss, The Lightning Thief by Rick Riordan, Fahrenheit 451 by Ray Bradbury, The Scarlet Letter by Nathaniel Hawthorne, Heir to the Empire by Timothy Zahn, If You Give a Mouse a Cookie by Laura Numeroff, Twilight by Stephanie Meyer]\
 \
 Popular and lengthy books:\
 The Lightning Thief by Rick Riordan\
