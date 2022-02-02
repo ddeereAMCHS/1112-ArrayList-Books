@@ -1,0 +1,8 @@
+Title; Author; Number of pages; Rating
+The Cat in the Hat; Dr. Seuss; 61; 4.9
+The Lightning Thief; Rick Riordan; 377; 4.3
+Fahrenheit 451; Ray Bradbury; 256; 4.0
+The Scarlet Letter; Nathaniel Hawthorne; 272; 3.4
+Heir to the Empire; Timothy Zahn; 368; 4.2
+If You Give a Mouse a Cookie; Laura Numeroff; 32; 4.5
+Twilight; Stephanie Meyer; 498; 3.7
