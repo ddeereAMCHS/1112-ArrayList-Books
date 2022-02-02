@@ -26,5 +26,14 @@
 - Print all books that are short (include a header, see example output)
 
 ***Example Input:***\
+books.txt\
+***Example Output:***\
+[The Cat in the Hat by Dr. Seuss, The Lightning Thief by Rick Riordan, Fahrenheit 451 by Ray Bradbury, The Scarlet Letter by Nathaniel Hawthorne, Heir to the Empire by Timothy Zahn, If You Give a Mouse a Cookie by Laura Numeroff]\
 \
-***Example Output:***
+Popular and lengthy books:\
+The Lightning Thief by Rick Riordan\
+Heir to the Empire by Timothy Zahn\
+\
+Short books:\
+The Cat in the Hat by Dr. Seuss\
+If You Give a Mouse a Cookie by Laura Numeroff
