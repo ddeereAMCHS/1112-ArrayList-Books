@@ -6,6 +6,8 @@
   - Author
   - Number of pages
   - Rating
+- Write a default constructor
+- Write a parameterized constructor that sets all four data members
 - Write getter and setter methods for each data member
 - Write a method called isPopular that returns true if the rating is greater than 4.0
 - Write a method called isLengthy that returns true if the number of pages is greater than 300
