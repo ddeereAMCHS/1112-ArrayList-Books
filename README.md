@@ -1,5 +1,7 @@
 # ArrayList Books
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a Book class
 - The class should have the following data members:
   - Title
